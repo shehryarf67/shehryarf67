@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=BS+CS+Student+%40+FAST+NUCES;MERN+Stack+%E2%80%A2+Next.js+%E2%80%A2+React+Three+Fiber;CUDA+%E2%80%A2+OpenMP+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+full-stack%2C+AI%2C+and+systems+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Web+Dev+Intern+%40+Muslim+Hands+UK;BS+CS+Student+%40+FAST+NUCES;MERN+Stack+%E2%80%A2+Next.js+%E2%80%A2+React+Three+Fiber;CUDA+%E2%80%A2+OpenMP+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+full-stack%2C+AI%2C+and+systems+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
