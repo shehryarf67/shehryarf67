@@ -23,17 +23,29 @@
 
 <br>
 
-```text
-role        : BS Computer Science Student
-campus      : FAST NUCES Islamabad
-location    : Islamabad, Pakistan
-frontend    : React • Next.js • React Three Fiber • Three.js • Tailwind CSS
-backend     : Node.js • Express.js • MongoDB • SQL
-ai_tools    : Groq • Anthropic • LangChain
-systems     : C++ • Python • CUDA • OpenMP • Assembly • Bash
-workflow    : Pandas • Jupyter • Git • GitHub • VS Code
-mission     : Building full-stack, AI, and systems projects through consistent practice
-```
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td>
+
+<pre>
+<span style="color:#7dd3fc;">r</span><span style="color:#93c5fd;">o</span><span style="color:#a5b4fc;">l</span><span style="color:#c4b5fd;">e</span>        : <span style="color:#e5e7eb;">BS Computer Science Student</span>
+<span style="color:#93c5fd;">c</span><span style="color:#a5b4fc;">a</span><span style="color:#c4b5fd;">m</span><span style="color:#7dd3fc;">p</span><span style="color:#93c5fd;">u</span><span style="color:#a5b4fc;">s</span>      : <span style="color:#d1d5db;">FAST NUCES Islamabad</span>
+<span style="color:#a5b4fc;">l</span><span style="color:#c4b5fd;">o</span><span style="color:#7dd3fc;">c</span><span style="color:#93c5fd;">a</span><span style="color:#a5b4fc;">t</span><span style="color:#c4b5fd;">i</span><span style="color:#7dd3fc;">o</span><span style="color:#93c5fd;">n</span>    : <span style="color:#d1d5db;">Islamabad, Pakistan</span>
+<span style="color:#c4b5fd;">f</span><span style="color:#7dd3fc;">r</span><span style="color:#93c5fd;">o</span><span style="color:#a5b4fc;">n</span><span style="color:#c4b5fd;">t</span><span style="color:#7dd3fc;">e</span><span style="color:#93c5fd;">n</span><span style="color:#a5b4fc;">d</span>   : <span style="color:#60a5fa;">React</span> • <span style="color:#38bdf8;">Next.js</span> • <span style="color:#818cf8;">React Three Fiber</span> • <span style="color:#a78bfa;">Three.js</span> • <span style="color:#67e8f9;">Tailwind CSS</span>
+<span style="color:#7dd3fc;">b</span><span style="color:#93c5fd;">a</span><span style="color:#a5b4fc;">c</span><span style="color:#c4b5fd;">k</span><span style="color:#7dd3fc;">e</span><span style="color:#93c5fd;">n</span><span style="color:#a5b4fc;">d</span>    : <span style="color:#86efac;">Node.js</span> • <span style="color:#4ade80;">Express.js</span> • <span style="color:#22c55e;">MongoDB</span> • <span style="color:#93c5fd;">SQL</span>
+<span style="color:#93c5fd;">a</span><span style="color:#a5b4fc;">i</span><span style="color:#64748b;">_</span><span style="color:#c4b5fd;">t</span><span style="color:#7dd3fc;">o</span><span style="color:#93c5fd;">o</span><span style="color:#a5b4fc;">l</span><span style="color:#c4b5fd;">s</span>   : <span style="color:#60a5fa;">Groq</span> • <span style="color:#8b5cf6;">Anthropic</span> • <span style="color:#38bdf8;">LangChain</span>
+<span style="color:#a5b4fc;">s</span><span style="color:#c4b5fd;">y</span><span style="color:#7dd3fc;">s</span><span style="color:#93c5fd;">t</span><span style="color:#a5b4fc;">e</span><span style="color:#c4b5fd;">m</span><span style="color:#7dd3fc;">s</span>    : <span style="color:#60a5fa;">C++</span> • <span style="color:#38bdf8;">Python</span> • <span style="color:#22c55e;">CUDA</span> • <span style="color:#818cf8;">OpenMP</span> • <span style="color:#a78bfa;">Assembly</span> • <span style="color:#94a3b8;">Bash</span>
+<span style="color:#c4b5fd;">w</span><span style="color:#7dd3fc;">o</span><span style="color:#93c5fd;">r</span><span style="color:#a5b4fc;">k</span><span style="color:#c4b5fd;">f</span><span style="color:#7dd3fc;">l</span><span style="color:#93c5fd;">o</span><span style="color:#a5b4fc;">w</span>  : <span style="color:#60a5fa;">Pandas</span> • <span style="color:#f59e0b;">Jupyter</span> • <span style="color:#94a3b8;">Git</span> • <span style="color:#d1d5db;">GitHub</span> • <span style="color:#38bdf8;">VS Code</span>
+<span style="color:#7dd3fc;">m</span><span style="color:#93c5fd;">i</span><span style="color:#a5b4fc;">s</span><span style="color:#c4b5fd;">s</span><span style="color:#7dd3fc;">i</span><span style="color:#93c5fd;">o</span><span style="color:#a5b4fc;">n</span>   : <span style="color:#e5e7eb;">Building full-stack, AI, and systems projects through consistent practice</span>
+</pre>
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 <hr>
 
