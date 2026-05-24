@@ -8,82 +8,79 @@
 
 <h1 align="center">Shehryar Faisal</h1>
 
+<hr>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=750&lines=BS+Computer+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL+%7C+Assembly;Building+projects+and+breaking+into+tech;Learning+by+doing%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=BS+CS+Student+%40+FAST+NUCES;MERN+Stack+%E2%80%A2+Next.js+%E2%80%A2+React+Three+Fiber;CUDA+%E2%80%A2+OpenMP+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+full-stack%2C+AI%2C+and+systems+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:shehryarf67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shehryarf67%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shehryar-faisal-524b59309">
-    <img src="https://img.shields.io/badge/LinkedIn-Shehryar%20Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shehryarf67">
-    <img src="https://img.shields.io/badge/GitHub-shehryarf67-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shehryarf67&style=for-the-badge&color=0e8f4f" alt="Profile views" />
+  <a href="mailto:shehryarf67@gmail.com"><img src="https://img.shields.io/badge/Email-shehryarf67%40gmail.com-0d1117?style=flat&logo=gmail&logoColor=58a6ff&labelColor=161b22&color=0d1117"></a>
+  <a href="https://www.linkedin.com/in/shehryar-faisal-524b59309"><img src="https://img.shields.io/badge/LinkedIn-Shehryar%20Faisal-0d1117?style=flat&logo=linkedin&logoColor=58a6ff&labelColor=161b22&color=0d1117"></a>
+  <a href="https://github.com/shehryarf67"><img src="https://img.shields.io/badge/GitHub-shehryarf67-0d1117?style=flat&logo=github&logoColor=58a6ff&labelColor=161b22&color=0d1117"></a>
+  <img src="https://komarev.com/ghpvc/?username=shehryarf67&style=flat&label=views&color=0d1117&labelColor=161b22" alt="Profile views">
 </p>
 
----
+<br>
 
 ```text
 role        : BS Computer Science Student
-university  : FAST NUCES Islamabad
+campus      : FAST NUCES Islamabad
 location    : Islamabad, Pakistan
-focus       : Python • C++ • JavaScript • SQL • Assembly
-goal        : Breaking into tech through projects, practice, and consistent learning
-currently   : Strengthening programming fundamentals and building practical software projects
+frontend    : React • Next.js • React Three Fiber • Three.js • Tailwind CSS
+backend     : Node.js • Express.js • MongoDB • SQL
+ai_tools    : Groq • Anthropic • LangChain
+systems     : C++ • Python • CUDA • OpenMP • Assembly • Bash
+workflow    : Pandas • Jupyter • Git • GitHub • VS Code
+mission     : Building full-stack, AI, and systems projects through consistent practice
 ```
 
----
+<hr>
 
-## About Me
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Three%20Fiber-0d1117?style=flat&logo=threedotjs&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/MERN%20Stack-0d1117?style=flat&logo=mongodb&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/OpenMP-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Anthropic-0d1117?style=flat&logo=anthropic&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/Groq-0d1117?style=flat&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=58a6ff&labelColor=161b22">
+        <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=58a6ff&labelColor=161b22">
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=shehryarf67&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
 
-I am a BS Computer Science student at FAST NUCES Islamabad, pursuing the dream of breaking into tech through consistent learning and hands-on projects.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryarf67&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+    </td>
+    <td width="50%" align="center">
+      <h3>Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+    </td>
+  </tr>
+</table>
 
-I enjoy working with Python, C++, JavaScript, SQL, and Assembly, and I am currently focused on improving my programming fundamentals, problem-solving ability, and project-building skills.
-
----
-
-## Tech Stack
+<hr>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,git,github,vscode" />
-</p>
-
----
-
-## What I Am Focused On
-
-- Strengthening programming fundamentals
-- Improving problem-solving skills
-- Building practical projects
-- Learning better project structure
-- Exploring software development, databases, and systems programming
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehryarf67&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&title_color=00c853&icon_color=00c853" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarf67&theme=github-dark-blue&border=30363d&ring=00c853&fire=00c853&currStreakLabel=00c853" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryarf67&layout=compact&theme=github_dark&border_color=30363d&title_color=00c853" height="170" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="mailto:shehryarf67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shehryarf67%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shehryar-faisal-524b59309">
-    <img src="https://img.shields.io/badge/LinkedIn-Shehryar%20Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js%20%7C%20Node.js-0d1117?style=flat&labelColor=161b22&color=0d1117">
+  <img src="https://img.shields.io/badge/AI-Groq%20%7C%20Anthropic%20%7C%20LangChain-0d1117?style=flat&labelColor=161b22&color=0d1117">
+  <img src="https://img.shields.io/badge/Systems-CUDA%20%7C%20OpenMP%20%7C%20C%2B%2B-0d1117?style=flat&labelColor=161b22&color=0d1117">
 </p>
