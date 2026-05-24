@@ -37,42 +37,45 @@ mission     : Building full-stack, AI, and systems projects through consistent p
 
 <hr>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <h3>Stack</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" alt="Tech stack icons" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React%20Three%20Fiber-0d1117?style=flat&logo=threedotjs&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/MERN%20Stack-0d1117?style=flat&logo=mongodb&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/OpenMP-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22">
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Anthropic-0d1117?style=flat&logo=anthropic&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/Groq-0d1117?style=flat&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=58a6ff&labelColor=161b22">
-        <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=58a6ff&labelColor=161b22">
-      </p>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" alt="Tech stack icons" />
+      <br><br>
+      <img src="https://img.shields.io/badge/React%20Three%20Fiber-0d1117?style=flat&logo=threedotjs&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/MERN%20Stack-0d1117?style=flat&logo=mongodb&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=58a6ff&labelColor=161b22">
+      <br>
+      <img src="https://img.shields.io/badge/OpenMP-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/Anthropic-0d1117?style=flat&logo=anthropic&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/Groq-0d1117?style=flat&logoColor=58a6ff&labelColor=161b22">
+      <br>
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=58a6ff&labelColor=161b22">
     </td>
-    <td width="50%" align="center">
-      <h3>Stats</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehryarf67&theme=github_dark" alt="GitHub stats" />
+    <td width="50%" align="center" valign="middle">
+      <h3>Streak</h3>
+      <br>
+      <img width="470" src="https://streak-stats.demolab.com?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
     </td>
   </tr>
 </table>
 
-<table>
+<br>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <h3>Languages</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehryarf67&theme=github_dark" alt="Languages by repository" />
+      <br>
+      <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehryarf67&theme=github_dark" alt="Languages by repository" />
     </td>
-    <td width="50%" align="center">
-      <h3>Streak</h3>
-      <img src="https://streak-stats.demolab.com?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+    <td width="50%" align="center" valign="middle">
+      <h3>Stats</h3>
+      <br>
+      <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehryarf67&theme=github_dark" alt="GitHub stats" />
     </td>
   </tr>
 </table>
