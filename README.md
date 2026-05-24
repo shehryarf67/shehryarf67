@@ -35,7 +35,7 @@
 | `campus` | **FAST NUCES Islamabad** |
 | `location` | **Islamabad, Pakistan** |
 | `frontend` | `React` · `Next.js` · `React Three Fiber` · `Three.js` · `Tailwind CSS` |
-| `backend` | `Node.js` · `Express.js` · `MongoDB` · `SQL` |
+| `backend` | `Node.js` · `Express.js` · `MongoDB` · `Flask` · `SQL` |
 | `ai_tools` | `Groq` · `Anthropic` · `LangChain` |
 | `systems` | `C++` · `Python` · `CUDA` · `OpenMP` · `Assembly` · `Bash` |
 | `workflow` | `Pandas` · `Jupyter` · `Git` · `GitHub` · `VS Code` |
@@ -52,7 +52,8 @@
     <td width="50%" align="center" valign="middle">
       <h3>Stack</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" alt="Tech stack icons" />
+      <img src="https://skillicons.dev/icons?
+        i=react,nextjs,nodejs,express,flask,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash
       <br><br>
       <img src="https://img.shields.io/badge/React%20Three%20Fiber-0d1117?style=flat&logo=threedotjs&logoColor=58a6ff&labelColor=161b22">
       <img src="https://img.shields.io/badge/MERN%20Stack-0d1117?style=flat&logo=mongodb&logoColor=58a6ff&labelColor=161b22">
