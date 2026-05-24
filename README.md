@@ -42,7 +42,7 @@ mission     : Building full-stack, AI, and systems projects through consistent p
     <td width="50%" align="center">
       <h3>Stack</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,threejs,tailwind,js,html,css,python,cpp,mysql,git,github,vscode,bash&perline=6" alt="Tech stack icons" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/React%20Three%20Fiber-0d1117?style=flat&logo=threedotjs&logoColor=58a6ff&labelColor=161b22">
@@ -59,7 +59,7 @@ mission     : Building full-stack, AI, and systems projects through consistent p
     </td>
     <td width="50%" align="center">
       <h3>Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=shehryarf67&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehryarf67&theme=github_dark" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -68,11 +68,11 @@ mission     : Building full-stack, AI, and systems projects through consistent p
   <tr>
     <td width="50%" align="center">
       <h3>Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryarf67&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehryarf67&theme=github_dark" alt="Languages by repository" />
     </td>
     <td width="50%" align="center">
       <h3>Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+      <img src="https://streak-stats.demolab.com?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
     </td>
   </tr>
 </table>
