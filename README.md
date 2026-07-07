@@ -68,7 +68,7 @@
     <td width="50%" align="center" valign="middle">
       <h3>Streak</h3>
       <br>
-      <img width="470" src="https://streak-stats.demolab.com?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+      <img width="470" src="https://github-readme-streak-stats.herokuapp.com?user=shehryarf67&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
     </td>
   </tr>
 </table>
