@@ -36,7 +36,7 @@
 | `location` | **Islamabad, Pakistan** |
 | `frontend` | `React` · `Next.js` · `React Three Fiber` · `Three.js` · `Tailwind CSS` |
 | `backend` | `Node.js` · `Express.js` · `MongoDB` · `Flask` · `SQL` |
-| `ai_tools` | `Groq` · `Anthropic` · `LangChain` |
+| `ai_tools` | `RAG` · `Groq` · `Anthropic` · `LangChain` |
 | `systems` | `C++` · `Python` · `CUDA` · `OpenMP` · `Assembly` · `Bash` |
 | `workflow` | `Pandas` · `Jupyter` · `Git` · `GitHub` · `VS Code` |
 | `mission` | Building full-stack, AI, and systems projects through consistent practice |
@@ -61,6 +61,9 @@
       <img src="https://img.shields.io/badge/OpenMP-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22">
       <img src="https://img.shields.io/badge/Anthropic-0d1117?style=flat&logo=anthropic&logoColor=58a6ff&labelColor=161b22">
       <img src="https://img.shields.io/badge/Groq-0d1117?style=flat&logoColor=58a6ff&labelColor=161b22">
+      <br>
+      <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0d1117?style=flat&logoColor=58a6ff&labelColor=161b22">
+      <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=58a6ff&labelColor=161b22">
       <br>
       <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=58a6ff&labelColor=161b22">
       <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=58a6ff&labelColor=161b22">
@@ -94,6 +97,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js%20%7C%20Node.js-0d1117?style=flat&labelColor=161b22&color=0d1117">
-  <img src="https://img.shields.io/badge/AI-Groq%20%7C%20Anthropic%20%7C%20LangChain-0d1117?style=flat&labelColor=161b22&color=0d1117">
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20Groq%20%7C%20Anthropic%20%7C%20LangChain-0d1117?style=flat&labelColor=161b22&color=0d1117">
   <img src="https://img.shields.io/badge/Systems-CUDA%20%7C%20OpenMP%20%7C%20C%2B%2B-0d1117?style=flat&labelColor=161b22&color=0d1117">
 </p>
